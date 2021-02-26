@@ -4,6 +4,7 @@ It was done primarily in order to be able to connect arbitrary files to the outp
 To use, download **file_to_arr.sh** and make it executable.
 
 To work, pass two arguments to the file: *./file_to_arr.sh* **#1 #2**
+
 **1#** - name (or full path) of the file to be converted;
 **2#** - the name of the variable in which the array will be stored;
 
