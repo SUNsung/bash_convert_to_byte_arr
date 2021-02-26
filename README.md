@@ -13,7 +13,7 @@ To work, pass two arguments to the file: *./file_to_arr.sh* **#1 #2**
 **2#** - the name of the variable in which the array will be stored;
 
 
-
++
 
 When using ESP8266 and other devices at AT-commands, it will be necessary to write a method to transfer data in fragments or byte.
 In other cases, the transfer from the arduino environment occurs directly through Serial.write (arr, size);
