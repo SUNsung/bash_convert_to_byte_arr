@@ -2,9 +2,11 @@ An executable file that allows any file to be represented as an array of bytes.
 It was done primarily in order to be able to connect arbitrary files to the output of the web server on esp32.
 
 
++
 
 To use, download **file_to_arr.sh** and make it executable.
 
++
 
 To work, pass two arguments to the file: *./file_to_arr.sh* **#1 #2**
 
